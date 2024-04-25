@@ -1,0 +1,5 @@
+database="bp3gix7t0on17jkk7lwu"
+user="u9ptgk9p2ecla4dwhinr"
+password="3IJ9YYCOO1ZrcEevhJe14zJXlR1U3Y"
+host="bp3gix7t0on17jkk7lwu-postgresql.services.clever-cloud.com"
+port="50013"
